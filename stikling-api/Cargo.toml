@@ -1,0 +1,9 @@
+[package]
+name = "stikling-api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+readonly = "0.2.12"
+quickcheck =  "1.0.3"
+quickcheck_macros = "1.0.0"
